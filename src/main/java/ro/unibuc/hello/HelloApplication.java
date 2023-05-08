@@ -24,6 +24,8 @@ public class HelloApplication {
 	@Autowired
 	private MedicamentRepository medicamentRepository;
 	@Autowired
+	private FarmacistRepository farmacistRepository;
+	@Autowired
 	private CustomerRepository customerRepository;
 
 
